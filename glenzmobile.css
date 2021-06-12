@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'Patrick Hand', cursive;
+    background-image: linear-gradient(to top, rgb(255, 7, 7), rgb(255, 0, 255));
+    color: rgb(0, 0, 0);
+}
+
+img
+{
+    height: 125px;
+    box-shadow: -15px 15px 25px whitesmoke;
+}
+
+h1
+{
+    font-size: 300%;
+}
+
+h2
+{
+    font-size: xx-large;
+}
+
+h3
+{
+    font-size: 175%;
+}
